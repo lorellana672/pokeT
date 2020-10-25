@@ -16,9 +16,9 @@ class MainActivity : AppCompatActivity() {
 
     }
 
-    normal.setOnclickListener(){
-        Toast.makeText(this,"hola",Toast.LENGTH_LONG)
-    }
+//    normal.setOnclickListener(){
+//        Toast.makeText(this,"hola",Toast.LENGTH_LONG).
+//    }
 
    /* override fun onClick(v: View?) {
         when(v?.id){
